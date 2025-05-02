@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F2A7D0&center=true&vCenter=true&random=false&width=440&lines=Oi%2C+eu+sou+Larissa+Fernanda!+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=440&lines=Oi%2C+eu+sou+Larissa+Fernanda!+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
 💻 Técnica em Desenvolvimento de Sistemas | Estudante de Sistemas para Internet
 <br/>
