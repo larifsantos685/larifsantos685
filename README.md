@@ -91,5 +91,3 @@
   />
 
 </p>
-
-![Snake animation](https://github.com/larifsantos685/blob/output/gith-contribuition-grid-snake.svg)
