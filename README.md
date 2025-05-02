@@ -1,8 +1,11 @@
-## Oi! Eu sou a Larissa Fernanda 
+## Oi! Eu sou a Larissa Fernanda 👩🏽‍💻
 
 💻 Técnica em Desenvolvimento de Sistemas | Estudante de Sistemas para Internet
+<br/>
 👩🏽‍💻 Estagiária em Desenvolvimento Web Full-Stack
+<br/>
 ✨ Apaixonada por tecnologia, curiosa e sempre pronta para aprender algo novo
+<br/>
 📚 Em constante evolução!
 
 ---
