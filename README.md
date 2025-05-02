@@ -86,7 +86,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160em" 
+    height="170em" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=larifsantos685&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -94,7 +94,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160em" 
+      height="170em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larifsantos685&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
