@@ -7,6 +7,8 @@
 ✨ Apaixonada por tecnologia, curiosa e sempre pronta para aprender algo novo
 <br/>
 📚 Em constante evolução!
+<br/>
+🔍 Visite meu portfólio: https://larifsantos685.github.io/larissafportfolio/
 
 ---
 
