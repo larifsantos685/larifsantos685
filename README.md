@@ -1,7 +1,9 @@
-## Oi! Eu sou a Larissa Fernanda 👩🏽‍💻
+## Oi! Eu sou a Larissa Fernanda 
 
-- 🔭 Atualmente estou trabalhando com Desevolvimento Web Fulll-Stack
-- 🌱 Estou estudando Python
+💻 Técnica em Desenvolvimento de Sistemas | Estudante de Sistemas para Internet
+👩🏽‍💻 Estagiária em Desenvolvimento Web Full-Stack
+✨ Apaixonada por tecnologia, curiosa e sempre pronta para aprender algo novo
+📚 Em constante evolução!
 
 ---
 
