@@ -124,7 +124,7 @@
         align="left" 
         alt="GitHub Stats" 
         height="185em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larifsantos685&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=21600" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larifsantos685&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p> 
 
