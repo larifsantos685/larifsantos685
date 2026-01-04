@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E9D4FF&center=true&vCenter=true&random=false&width=440&lines=Oi%2C+eu+sou+Larissa+Fernanda!+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
-💻 Técnica em Desenvolvimento de Sistemas | Estudante de Sistemas para Internet
+💻 Técnica em Desenvolvimento de Sistemas | Graduada em Sistemas para Internet
 <br/>
-👩🏽‍💻 Estagiária em Desenvolvimento Web Full-Stack
+👩🏽‍💻 Desenvolvedora Web Full-Stack
 <br/>
 ✨ Apaixonada por tecnologia, curiosa e sempre pronta para aprender algo novo
 <br/>
